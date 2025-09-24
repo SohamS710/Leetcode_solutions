@@ -9,6 +9,7 @@ A collection of my leetcode solutions in C++/C.
 | [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SohamS710/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamS710/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -16,6 +17,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of my leetcode solutions in C++/C.
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamS710/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -46,4 +49,12 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
