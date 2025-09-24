@@ -8,6 +8,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SohamS710/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sorting
 |  |
@@ -17,6 +18,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/SohamS710/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -25,9 +27,14 @@ A collection of my leetcode solutions in C++/C.
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
