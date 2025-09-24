@@ -6,6 +6,7 @@ A collection of my leetcode solutions in C++/C.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SohamS710/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -17,6 +18,7 @@ A collection of my leetcode solutions in C++/C.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SohamS710/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -37,4 +39,8 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
