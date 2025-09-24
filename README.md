@@ -70,6 +70,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -78,8 +79,10 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
