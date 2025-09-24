@@ -46,6 +46,7 @@ A collection of my leetcode solutions in C++/C.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -59,4 +60,8 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
