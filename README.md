@@ -30,10 +30,12 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamS710/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
