@@ -16,6 +16,7 @@ private:
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int iniColor = image[sr][sc];
+        if (iniColor == color) return image;
         vector<vector<int>> ans = image;
         int delRow[] = {-1,0,+1,0};
         int delCol[] = {0,+1,0,-1};
