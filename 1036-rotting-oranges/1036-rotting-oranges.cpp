@@ -1,62 +1,53 @@
+#include <vector>
+#include <queue>
+using namespace std;
+
 class Solution {
 public:
-    struct Pair {
-        int row, col, time;
-        Pair(int r, int c, int t) : row(r), col(c), time(t) {}
-    };
-    
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
+        int m = grid.size();
+        int n = grid[0].size();
+        int cntfresh = 0;
+        queue<pair<pair<int,int>, int>> que;
 
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        queue<Pair> q;
-
-        int cntFresh = 0;
-
-        // Step 1: Add all rotten oranges to queue and mark them visited
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
+        // Count fresh oranges and push rotten oranges into the queue
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 2) {
-                    q.push(Pair(i, j, 0));
-                    vis[i][j] = 2;
-                } else {
-                    vis[i][j] = 0;
-                }
-                if (grid[i][j] == 1) cntFresh++;
-            }
-        }
-
-        int tm = 0;
-        int cnt = 0;
-
-        // Directions: up, right, down, left
-        int drow[] = {-1, 0, +1, 0};
-        int dcol[] = {0, +1, 0, -1};
-
-        while (!q.empty()) {
-            int r = q.front().row;
-            int c = q.front().col;
-            int t = q.front().time;
-            q.pop();
-            tm = max(tm, t);
-
-            for (int i = 0; i < 4; ++i) {
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
-
-                // Valid fresh orange
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && 
-                    vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1) {
-                    
-                    q.push(Pair(nrow, ncol, t + 1));
-                    vis[nrow][ncol] = 2;
-                    cnt++;
+                    que.push({{i, j}, 0});
+                } else if (grid[i][j] == 1) {
+                    cntfresh++;
                 }
             }
         }
 
-        if (cnt != cntFresh) return -1;
-        return tm;
+        int time = 0;
+        int rottenCount = 0;
+        int delrow[] = {-1, 0, 1, 0};
+        int delcol[] = {0, 1, 0, -1};
+
+        // BFS to rot adjacent fresh oranges
+        while (!que.empty()) {
+            int row = que.front().first.first;
+            int col = que.front().first.second;
+            int t = que.front().second;
+            que.pop();
+
+            time = max(time, t);
+
+            for (int i = 0; i < 4; i++) {
+                int nrow = row + delrow[i];
+                int ncol = col + delcol[i];
+
+                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && grid[nrow][ncol] == 1) {
+                    grid[nrow][ncol] = 2; // Mark orange as rotten
+                    que.push({{nrow, ncol}, t + 1});
+                    rottenCount++;       // One more fresh orange rotten
+                }
+            }
+        }
+
+        // If all fresh oranges are rotten, return time; otherwise -1
+        return (rottenCount == cntfresh) ? time : -1;
     }
 };
