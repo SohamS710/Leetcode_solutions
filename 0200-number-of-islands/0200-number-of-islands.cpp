@@ -1,50 +1,38 @@
 class Solution {
-private:
-    void bfs(int row, int col, vector<vector<int>>& vis, vector<vector<char>>& grid) {
-        vis[row][col] = 1;
-        int n = grid.size();
-        int m = grid[0].size();
+public:
+    int m, n;
 
-        queue<pair<int, int>> q;
-        q.push({row, col});
-
-        int drow[] = {-1, 0, 1, 0}; // Up, Right, Down, Left
-        int dcol[] = {0, 1, 0, -1};
-
-        while (!q.empty()) {
-            int crow = q.front().first;
-            int ccol = q.front().second;
-            q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = crow + drow[i];
-                int ncol = ccol + dcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]) {
-                    vis[nrow][ncol] = 1;
-                    q.push({nrow, ncol});
-                }
-            }
+    void dfs(vector<vector<char>>& grid, int i, int j) {
+        // Boundary and visited checks
+        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != '1') {
+            return;
         }
+
+        // Mark the cell as visited
+        grid[i][j] = '$';
+
+        // Visit all 4 directions
+        dfs(grid, i + 1, j);
+        dfs(grid, i - 1, j);
+        dfs(grid, i, j + 1);
+        dfs(grid, i, j - 1);
     }
 
-public:
     int numIslands(vector<vector<char>>& grid) {
-        int n = grid.size(); 
-        int m = grid[0].size();
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        int cnt = 0;
+        if (grid.empty()) return 0;
 
-        for (int row = 0; row < n; row++) {
-            for (int col = 0; col < m; col++) {
-                if (!vis[row][col] && grid[row][col] == '1') {
-                    cnt++;
-                    bfs(row, col, vis, grid);
+        m = grid.size();
+        n = grid[0].size();
+        int island = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == '1') {
+                    dfs(grid, i, j);
+                    island++;
                 }
             }
         }
-
-        return cnt;
+        return island;
     }
 };
