@@ -130,4 +130,8 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [1039-find-the-town-judge](https://github.com/SohamS710/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SohamS710/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
