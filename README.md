@@ -51,6 +51,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/SohamS710/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamS710/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1039-find-the-town-judge](https://github.com/SohamS710/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
 ## Stack
@@ -74,6 +75,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/SohamS710/Leetcode_solutions/tree/master/0127-word-ladder) |
 ## Tree
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/SohamS710/Leetcode_solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
