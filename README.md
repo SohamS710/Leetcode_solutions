@@ -91,6 +91,7 @@ A collection of my leetcode solutions in C++/C.
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0332-reconstruct-itinerary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -138,10 +139,15 @@ A collection of my leetcode solutions in C++/C.
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [1039-find-the-town-judge](https://github.com/SohamS710/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SohamS710/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Database
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
