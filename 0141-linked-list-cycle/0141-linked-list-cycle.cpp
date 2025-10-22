@@ -9,14 +9,12 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        map<ListNode*, int> nodeMap;
-        ListNode* temp = head;
-        while (temp != nullptr) {
-            if (nodeMap.find(temp) != nodeMap.end()) {
-                return true;  // Cycle detected
-            }
-            nodeMap[temp] = 1;  // Mark node as visited
-            temp = temp->next;  // Move to next node
+        ListNode *slow = head, *fast = head;
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+            if (slow == fast) 
+                return true;
         }
         return false;  // No cycle found
     }
