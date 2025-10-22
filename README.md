@@ -72,6 +72,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of my leetcode solutions in C++/C.
 | [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/SohamS710/Leetcode_solutions/tree/master/0127-word-ladder) |
+| [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Tree
 |  |
