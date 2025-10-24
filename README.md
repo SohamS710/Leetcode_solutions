@@ -104,6 +104,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -122,6 +123,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -129,6 +131,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
