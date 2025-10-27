@@ -9,43 +9,46 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if (root == nullptr) return nullptr;
+        if (root == nullptr)
+            return nullptr;
 
-        if (root->val == key) return helper(root);
-
-        TreeNode *dummy = root;
-        while (root != nullptr) {
-            if (root->val > key) {
-                if (root->left != nullptr && root->left->val == key) {
-                    root->left = helper(root->left);
-                } else {
-                    root = root->left;
-                }
-            } else {
-                if (root->right != nullptr && root->right->val == key) {
-                    root->right = helper(root->right);
-                } else {
-                    root = root->right;
-                }
+        if (key < root->val) {
+            root->left = deleteNode(root->left, key);
+        } 
+        else if (key > root->val) {
+            root->right = deleteNode(root->right, key);
+        } 
+        else {
+            // Node found
+            if (root->left == nullptr) {
+                TreeNode* temp = root->right;
+                delete root;
+                return temp;
+            } 
+            else if (root->right == nullptr) {
+                TreeNode* temp = root->left;
+                delete root;
+                return temp;
             }
-        }
-        return dummy;
-    }
-    TreeNode* helper(TreeNode* root) {
-        if (root->left == nullptr) return root->right;
-        if (root->right == nullptr) return root->left;
 
-        TreeNode *rchild = root->right;
-        TreeNode *lastRight = findLastRight(root->left);
-        lastRight->right = rchild;
-        return root->left;
+            // Node with two children → find inorder successor
+            TreeNode* temp = findMin(root->right);
+            root->val = temp->val;
+            root->right = deleteNode(root->right, temp->val);
+        }
+
+        return root;
     }
-    TreeNode* findLastRight(TreeNode* root) {
-        if (root->right == nullptr) return root;
-        return findLastRight(root->right);
+
+private:
+    // Helper to find minimum node in a subtree
+    TreeNode* findMin(TreeNode* node) {
+        while (node && node->left)
+            node = node->left;
+        return node;
     }
-    
 };
