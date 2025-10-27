@@ -49,6 +49,7 @@ A collection of my leetcode solutions in C++/C.
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SohamS710/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/SohamS710/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of my leetcode solutions in C++/C.
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of my leetcode solutions in C++/C.
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of my leetcode solutions in C++/C.
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,4 +201,8 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
