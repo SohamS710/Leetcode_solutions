@@ -11,25 +11,18 @@
  */
 class Solution {
 public:
-    int maxi; // to store the global maximum path sum
-
-    int solve(TreeNode* node) {
-        if (node == nullptr) return 0;
-
-        // compute left and right sums, ignoring negatives
-        int leftSum = max(0, solve(node->left));
-        int rightSum = max(0, solve(node->right));
-
-        // update the global maximum path sum through this node
-        maxi = max(maxi, leftSum + rightSum + node->val);
-
-        // return the max gain including this node and one of its subtrees
-        return node->val + max(leftSum, rightSum);
-    }
-
     int maxPathSum(TreeNode* root) {
-        maxi = INT_MIN;
-        solve(root);
+        int maxi = INT_MIN;
+        maxPathDown(root, maxi);
         return maxi;
     }
+
+    int maxPathDown(TreeNode* node, int &maxi) {
+        if (node == NULL) return 0;
+        int left = max(0, maxPathDown(node->left, maxi));
+        int right = max(0, maxPathDown(node->right, maxi));
+        maxi = max(maxi, left + right + node->val);
+        return max(left, right) + node->val;
+    }
 };
+
