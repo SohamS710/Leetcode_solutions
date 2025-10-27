@@ -104,6 +104,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -113,6 +114,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0332-reconstruct-itinerary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
@@ -133,6 +135,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -185,4 +188,8 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
