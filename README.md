@@ -85,6 +85,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/SohamS710/Leetcode_solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of my leetcode solutions in C++/C.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SohamS710/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
