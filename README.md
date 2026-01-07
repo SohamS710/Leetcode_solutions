@@ -25,6 +25,7 @@ A collection of my leetcode solutions in C++/C.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Recursion
@@ -42,6 +43,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0001-two-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -58,6 +60,7 @@ A collection of my leetcode solutions in C++/C.
 | [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SohamS710/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
