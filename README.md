@@ -82,6 +82,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -112,6 +113,7 @@ A collection of my leetcode solutions in C++/C.
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -125,6 +127,7 @@ A collection of my leetcode solutions in C++/C.
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0332-reconstruct-itinerary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
@@ -149,6 +152,7 @@ A collection of my leetcode solutions in C++/C.
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
