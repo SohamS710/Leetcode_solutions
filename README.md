@@ -45,6 +45,7 @@ A collection of my leetcode solutions in C++/C.
 | [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -224,4 +225,8 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
