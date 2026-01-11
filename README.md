@@ -49,6 +49,7 @@ A collection of my leetcode solutions in C++/C.
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/SohamS710/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SohamS710/Leetcode_solutions/tree/master/1036-rotting-oranges) |
@@ -151,6 +152,7 @@ A collection of my leetcode solutions in C++/C.
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SohamS710/Leetcode_solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0704-binary-search](https://github.com/SohamS710/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
