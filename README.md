@@ -97,6 +97,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/SohamS710/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/SohamS710/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
