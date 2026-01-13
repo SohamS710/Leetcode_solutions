@@ -44,6 +44,7 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [0001-two-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@ A collection of my leetcode solutions in C++/C.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/SohamS710/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
