@@ -222,6 +222,7 @@ A collection of my leetcode solutions in C++/C.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/SohamS710/Leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Eulerian Circuit
 |  |
