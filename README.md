@@ -108,6 +108,7 @@ A collection of my leetcode solutions in C++/C.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
+| [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of my leetcode solutions in C++/C.
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of my leetcode solutions in C++/C.
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
+| [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SohamS710/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -169,6 +172,7 @@ A collection of my leetcode solutions in C++/C.
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SohamS710/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
@@ -186,6 +190,7 @@ A collection of my leetcode solutions in C++/C.
 | [0783-search-in-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -265,4 +270,8 @@ A collection of my leetcode solutions in C++/C.
 | ------- |
 | [1929-concatenation-of-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
