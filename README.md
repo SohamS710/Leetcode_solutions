@@ -240,6 +240,7 @@ A collection of my leetcode solutions in C++/C.
 | [1075-project-employees-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/SohamS710/Leetcode_solutions/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/SohamS710/Leetcode_solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SohamS710/Leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SohamS710/Leetcode_solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/SohamS710/Leetcode_solutions/tree/master/1683-invalid-tweets) |
