@@ -3,7 +3,6 @@ select st.student_id, st.student_name, su.subject_name, count(e.student_id) as a
 from students st
 cross join subjects su
 left join examinations e
-on st.student_id=e.student_id
-and su.subject_name=e.subject_name
-group by st.student_id, st.student_name, su.subject_name
+on st.student_id = e.student_id and su.subject_name=e.subject_name
+group by st.student_id,st.student_name, su.subject_name
 order by st.student_id, su.subject_name;
