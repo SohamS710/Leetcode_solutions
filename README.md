@@ -1,5 +1,18 @@
-# Leetcode_solutions
-A collection of my leetcode solutions in C++/C.
+LeetCode Solutions
+
+Welcome to my LeetCode Solutions Repository
+This repository contains my solutions to problems from LeetCode.
+
+About:
+Practicing Data Structures & Algorithms
+Improving problem-solving patterns
+Preparing for technical interviews
+Tracking consistency and growth
+
+Languages Used:
+C
+C++
+SQL
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
