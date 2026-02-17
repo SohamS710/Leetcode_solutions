@@ -39,6 +39,7 @@ SQL
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Recursion
@@ -59,6 +60,7 @@ SQL
 | [0027-remove-element](https://github.com/SohamS710/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/SohamS710/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
@@ -83,6 +85,7 @@ SQL
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SohamS710/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
