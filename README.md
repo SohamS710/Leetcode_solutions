@@ -263,6 +263,7 @@ SQL
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SohamS710/Leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/SohamS710/Leetcode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SohamS710/Leetcode_solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1661-average-time-of-process-per-machine](https://github.com/SohamS710/Leetcode_solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/SohamS710/Leetcode_solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/SohamS710/Leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
