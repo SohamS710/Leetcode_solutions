@@ -266,6 +266,7 @@ SQL
 | [1251-average-selling-price](https://github.com/SohamS710/Leetcode_solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/SohamS710/Leetcode_solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SohamS710/Leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/SohamS710/Leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/SohamS710/Leetcode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SohamS710/Leetcode_solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/SohamS710/Leetcode_solutions/tree/master/1661-average-time-of-process-per-machine) |
