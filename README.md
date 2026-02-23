@@ -268,6 +268,7 @@ SQL
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SohamS710/Leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SohamS710/Leetcode_solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/SohamS710/Leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/SohamS710/Leetcode_solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/SohamS710/Leetcode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SohamS710/Leetcode_solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/SohamS710/Leetcode_solutions/tree/master/1661-average-time-of-process-per-machine) |
