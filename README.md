@@ -251,6 +251,7 @@ SQL
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0176-second-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SohamS710/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/SohamS710/Leetcode_solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/SohamS710/Leetcode_solutions/tree/master/0584-find-customer-referee) |
