@@ -289,6 +289,7 @@ SQL
 | [1729-find-followers-count](https://github.com/SohamS710/Leetcode_solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/SohamS710/Leetcode_solutions/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/SohamS710/Leetcode_solutions/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/SohamS710/Leetcode_solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SohamS710/Leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
