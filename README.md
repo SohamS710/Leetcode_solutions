@@ -295,6 +295,7 @@ SQL
 | [1907-count-salary-categories](https://github.com/SohamS710/Leetcode_solutions/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SohamS710/Leetcode_solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/SohamS710/Leetcode_solutions/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/SohamS710/Leetcode_solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SohamS710/Leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Eulerian Circuit
 |  |
