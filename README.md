@@ -143,6 +143,7 @@ SQL
 | [0344-reverse-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Tree
 |  |
