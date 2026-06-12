@@ -259,6 +259,7 @@ SQL
 | [0180-consecutive-numbers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/SohamS710/Leetcode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/SohamS710/Leetcode_solutions/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/SohamS710/Leetcode_solutions/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/SohamS710/Leetcode_solutions/tree/master/0262-trips-and-users) |
 | [0550-game-play-analysis-iv](https://github.com/SohamS710/Leetcode_solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SohamS710/Leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
