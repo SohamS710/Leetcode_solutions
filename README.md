@@ -36,6 +36,7 @@ SQL
 | [0328-odd-even-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ SQL
 | [0344-reverse-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +118,7 @@ SQL
 | [0234-palindrome-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
