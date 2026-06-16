@@ -149,6 +149,7 @@ SQL
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3612-process-string-with-special-operations-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -345,6 +346,7 @@ SQL
 | [0067-add-binary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3612-process-string-with-special-operations-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Greedy
 |  |
 | ------- |
