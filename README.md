@@ -128,6 +128,7 @@ SQL
 | [0067-add-binary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SohamS710/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SohamS710/Leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Divide and Conquer
 |  |
 | ------- |
