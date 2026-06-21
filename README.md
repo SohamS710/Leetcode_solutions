@@ -45,6 +45,7 @@ SQL
 | [0088-merge-sorted-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
+| [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ SQL
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SohamS710/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -362,6 +364,7 @@ SQL
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -378,4 +381,8 @@ SQL
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
