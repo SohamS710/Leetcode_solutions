@@ -114,6 +114,7 @@ SQL
 | [0160-intersection-of-two-linked-lists](https://github.com/SohamS710/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1039-find-the-town-judge](https://github.com/SohamS710/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/SohamS710/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
@@ -155,6 +156,7 @@ SQL
 | [0344-reverse-string](https://github.com/SohamS710/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/SohamS710/Leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/SohamS710/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -346,6 +348,7 @@ SQL
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/SohamS710/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SohamS710/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Memoization
 |  |
