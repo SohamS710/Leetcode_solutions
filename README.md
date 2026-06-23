@@ -335,6 +335,7 @@ SQL
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -372,6 +373,7 @@ SQL
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/SohamS710/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
