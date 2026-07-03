@@ -88,6 +88,7 @@ SQL
 | [2574-left-and-right-sum-differences](https://github.com/SohamS710/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@ SQL
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SohamS710/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Tree
 |  |
 | ------- |
@@ -342,6 +344,7 @@ SQL
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
 |  |
@@ -386,6 +389,7 @@ SQL
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -406,8 +410,14 @@ SQL
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
