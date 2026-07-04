@@ -1,9 +1,6 @@
 class Solution {
 public:
-    void dfs(int u,
-             unordered_map<int, vector<pair<int,int>>>& adj,
-             vector<bool>& visited,
-             int &result) {
+    void dfs(int u, unordered_map<int, vector<pair<int,int>>>& adj, vector<bool>& visited, int &result) {
 
         visited[u] = true;
 
