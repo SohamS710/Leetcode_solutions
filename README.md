@@ -77,6 +77,7 @@ SQL
 | [1039-find-the-town-judge](https://github.com/SohamS710/Leetcode_solutions/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SohamS710/Leetcode_solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1301-number-of-paths-with-max-score](https://github.com/SohamS710/Leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SohamS710/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -261,6 +262,7 @@ SQL
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SohamS710/Leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/SohamS710/Leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union Find
@@ -346,6 +348,7 @@ SQL
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/SohamS710/Leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Monotonic Stack
