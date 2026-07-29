@@ -128,6 +128,7 @@ SQL
 | [1189-maximum-number-of-balloons](https://github.com/SohamS710/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ SQL
 | [1344-angle-between-hands-of-a-clock](https://github.com/SohamS710/Leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamS710/Leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -177,6 +179,7 @@ SQL
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SohamS710/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -384,6 +387,7 @@ SQL
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SohamS710/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SohamS710/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -457,4 +461,8 @@ SQL
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamS710/Leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
