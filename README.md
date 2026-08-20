@@ -92,6 +92,7 @@ SQL
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SohamS710/Leetcode_solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/SohamS710/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamS710/Leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -403,6 +404,7 @@ SQL
 | [0067-add-binary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/SohamS710/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SohamS710/Leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
