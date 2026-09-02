@@ -47,6 +47,7 @@ SQL
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -84,6 +85,7 @@ SQL
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SohamS710/Leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamS710/Leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SohamS710/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SohamS710/Leetcode_solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -415,6 +417,7 @@ SQL
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -428,6 +431,7 @@ SQL
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
