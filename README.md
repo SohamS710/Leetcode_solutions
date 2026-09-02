@@ -46,6 +46,7 @@ SQL
 | [0147-insertion-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SohamS710/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -76,6 +77,7 @@ SQL
 | [0283-move-zeroes](https://github.com/SohamS710/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/SohamS710/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/SohamS710/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
@@ -376,6 +378,7 @@ SQL
 | [0124-binary-tree-maximum-path-sum](https://github.com/SohamS710/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamS710/Leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamS710/Leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -417,6 +420,7 @@ SQL
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/SohamS710/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -481,4 +485,8 @@ SQL
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
