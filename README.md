@@ -282,6 +282,7 @@ SQL
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SohamS710/Leetcode_solutions/tree/master/1036-rotting-oranges) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SohamS710/Leetcode_solutions/tree/master/2121-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamS710/Leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -467,6 +468,7 @@ SQL
 | ------- |
 | [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/SohamS710/Leetcode_solutions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamS710/Leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SohamS710/Leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
