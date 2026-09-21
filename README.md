@@ -228,6 +228,7 @@ SQL
 | [0332-reconstruct-itinerary](https://github.com/SohamS710/Leetcode_solutions/tree/master/0332-reconstruct-itinerary) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -276,6 +277,7 @@ SQL
 | [0200-number-of-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SohamS710/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -435,6 +437,7 @@ SQL
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -458,6 +461,7 @@ SQL
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamS710/Leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SohamS710/Leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -466,6 +470,7 @@ SQL
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -489,4 +494,8 @@ SQL
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
