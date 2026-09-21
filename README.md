@@ -229,6 +229,7 @@ SQL
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1382-balance-a-binary-search-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -278,6 +279,7 @@ SQL
 | [0662-maximum-width-of-binary-tree](https://github.com/SohamS710/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/SohamS710/Leetcode_solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/SohamS710/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SohamS710/Leetcode_solutions/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/SohamS710/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -381,6 +383,7 @@ SQL
 | [0435-non-overlapping-intervals](https://github.com/SohamS710/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SohamS710/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/SohamS710/Leetcode_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamS710/Leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamS710/Leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SohamS710/Leetcode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -438,6 +441,7 @@ SQL
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/SohamS710/Leetcode_solutions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SohamS710/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -462,6 +466,7 @@ SQL
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamS710/Leetcode_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SohamS710/Leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -471,6 +476,7 @@ SQL
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SohamS710/Leetcode_solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SohamS710/Leetcode_solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamS710/Leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SohamS710/Leetcode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
